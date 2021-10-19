@@ -1,4 +1,4 @@
-Exercise: Html Css Shoes
+Exercise: Shoes Expo
 repository: htmlcss-shoes
 
 Riproduciamo il layout allegato.
