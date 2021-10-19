@@ -1,2 +1,10 @@
-Exercise: 
-repository: 
+Exercise: Html Css Shoes
+repository: htmlcss-shoes
+
+Riproduciamo il layout allegato.
+Ogni singolo blocco avrà l’altezza della viewport, il testo e l’immagine sono centrati rispetto al blocco.
+Quando clicchiamo sui pallini andiamo alla sezione desiderata.
+
+BONUS
+    Ombra sui pallini
+    Riproduciamo lo spostamento “soft” al click sul link cercando nella documentazione css qualcosa di utile :faccia_leggermente_sorridente:
